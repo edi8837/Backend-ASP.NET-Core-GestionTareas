@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using WebApiPerson.Context;
-using WebApiPerson.Models;
+using WebApiTask.Context;
+using WebApiTask.Models;
 
-namespace WebApiPerson.Controllers
+namespace WebApiTask.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

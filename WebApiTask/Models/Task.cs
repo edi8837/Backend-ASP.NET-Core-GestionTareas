@@ -1,4 +1,4 @@
-﻿namespace WebApiPerson.Models
+﻿namespace WebApiTask.Models
 {
     public class Task
     {

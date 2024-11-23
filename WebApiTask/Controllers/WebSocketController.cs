@@ -2,7 +2,7 @@
 using System.Net.WebSockets;
 using System.Text;
 
-namespace WebApiPerson.Controllers
+namespace WebApiTask.Controllers
 {
     [ApiController]
     [Route("ws")]  // Ruta de la API WebSocket, accediendo a través de "http://localhost:<puerto>/ws"

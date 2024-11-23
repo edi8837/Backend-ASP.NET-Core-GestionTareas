@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using WebApiPerson.Context;
+using WebApiTask.Context;
 
 var builder = WebApplication.CreateBuilder(args);
 

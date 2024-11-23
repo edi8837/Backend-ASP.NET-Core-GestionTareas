@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using WebApiPerson.Models;
+using WebApiTask.Models;
 
-namespace WebApiPerson.Context
+namespace WebApiTask.Context
 {
     public class AppDbContext: DbContext
     {
